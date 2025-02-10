@@ -19,8 +19,8 @@
 
 .container input[type=submit],
 .container input[type=button] {
-    background-color: lightgrey;
-    padding: 15px 20px;
+    background-color: darkseagreen;
+    padding: 10px 15px;
     cursor: pointer;
     border-radius: 4px;
     margin-left: 5px;
@@ -30,7 +30,7 @@
 
 .container input[type=submit]:hover,
 .container input[type=button]:hover {
-    background-color: grey;
+    background-color: seagreen;
 }
 
 .formElement {
